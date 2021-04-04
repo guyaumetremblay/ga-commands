@@ -1,0 +1,12 @@
+{
+    "name": "bluelink-startclim",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@google-cloud/functions-framework": "^1.7.1",
+        "basic-auth": "^2.0.1",
+        "bluelinky": "^7.0.1"
+    }
+}
